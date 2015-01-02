@@ -5,9 +5,12 @@
 	<key>fileTypes</key>
 	<array>
 		<string>mb</string>
+		<string>wor</string>
+		<string>tab</string>
+		<string>def</string>
 	</array>
 	<key>name</key>
-	<string>MapBasic</string>
+	<string>MapBasic 12.0</string>
 	<key>patterns</key>
 	<array>
 	<!-- NEED? -->

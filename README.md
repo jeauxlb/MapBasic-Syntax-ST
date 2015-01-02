@@ -1,7 +1,7 @@
 MapBasic Syntax
 ==================
 
-This is an work in progress package defining syntax for MapBasic (a MapInfo programming language) in Sublime Text 2.
+Syntax Definitions for MapBasic (a MapInfo programming language) in Sublime Text.
 
 Some snippets are also included.
 

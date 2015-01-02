@@ -1,0 +1,35 @@
+<snippet>
+	<content><![CDATA[
+'Global Level Statements'
+Include "mapbasic.def"
+   other Include statements
+   Type ... End Type statements
+   Declare Sub statements
+   Declare Function statements
+   Define statements
+   Global statements
+
+
+'Main Procedure Definition'
+￼Sub Main
+    Dim statements
+    ... 
+    End Sub
+
+'Custom Sub Definitions'
+Sub ...
+    Dim statements
+    ... 
+    End Sub
+￼
+'Custom Function Definitions'
+Function ...
+    Dim statements
+    ...
+   End Function
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mapbasic</scope>
+</snippet>

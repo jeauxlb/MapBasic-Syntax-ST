@@ -186,8 +186,6 @@
 					<string>meta.separator.comma.mapbasic120</string>
 				</dict>
 			</dict>
-			<key>match</key>
-			<string>(?i:(dim)\s*(?:(\b[a-zA-Z_x7f-xff][a-zA-Z0-9_x7f-xff]*?\b)\s*(,?)))</string>
 			<key>name</key>
 			<string>variable.other.dim.mapbasic120</string>
 		</dict>
